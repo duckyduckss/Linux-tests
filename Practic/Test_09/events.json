@@ -1,0 +1,272 @@
+[
+  {
+    "event_id": 1,
+    "type": "ERROR",
+    "source": "backup_service",
+    "status_code": 206,
+    "timestamp": "2025-04-30T07:05:31.578575",
+    "message": "Connection timed out",
+    "duration": 2.34
+  },
+  {
+    "event_id": 2,
+    "type": "ERROR",
+    "source": "web_server",
+    "status_code": 495,
+    "timestamp": "2025-05-04T13:46:20.578575",
+    "message": "Backup failed due to network error",
+    "duration": 4.24
+  },
+  {
+    "event_id": 3,
+    "type": "WARNING",
+    "source": "web_server",
+    "status_code": 210,
+    "timestamp": "2025-05-03T19:26:12.578575",
+    "message": "Cache cleared",
+    "duration": 3.63
+  },
+  {
+    "event_id": 4,
+    "type": "ERROR",
+    "source": "auth_service",
+    "status_code": 461,
+    "timestamp": "2025-05-05T08:27:08.578575",
+    "message": "Operation completed successfully",
+    "duration": 3.66
+  },
+  {
+    "event_id": 5,
+    "type": "WARNING",
+    "source": "web_server",
+    "status_code": 261,
+    "timestamp": "2025-05-05T20:19:11.578575",
+    "message": "Cache cleared",
+    "duration": 4.26
+  },
+  {
+    "event_id": 6,
+    "type": "WARNING",
+    "source": "backup_service",
+    "status_code": 211,
+    "timestamp": "2025-04-30T19:44:53.578575",
+    "message": "Service restarted",
+    "duration": 0.72
+  },
+  {
+    "event_id": 7,
+    "type": "INFO",
+    "source": "backup_service",
+    "status_code": 310,
+    "timestamp": "2025-05-02T11:09:15.578575",
+    "message": "Minor glitch encountered",
+    "duration": 2.61
+  },
+  {
+    "event_id": 8,
+    "type": "WARNING",
+    "source": "web_server",
+    "status_code": 373,
+    "timestamp": "2025-05-04T12:17:43.578575",
+    "message": "Update available",
+    "duration": 0.78
+  },
+  {
+    "event_id": 9,
+    "type": "ERROR",
+    "source": "db_service",
+    "status_code": 466,
+    "timestamp": "2025-04-29T21:14:36.578575",
+    "message": "Permission denied",
+    "duration": 0.21
+  },
+  {
+    "event_id": 10,
+    "type": "WARNING",
+    "source": "web_server",
+    "status_code": 500,
+    "timestamp": "2025-05-03T18:04:03.578575",
+    "message": "Configuration loaded",
+    "duration": 1.13
+  },
+  {
+    "event_id": 11,
+    "type": "ERROR",
+    "source": "cache_service",
+    "status_code": 230,
+    "timestamp": "2025-04-30T06:29:25.578575",
+    "message": "Operation completed successfully",
+    "duration": 3.13
+  },
+  {
+    "event_id": 12,
+    "type": "ERROR",
+    "source": "backup_service",
+    "status_code": 499,
+    "timestamp": "2025-05-02T23:26:55.578575",
+    "message": "Operation completed successfully",
+    "duration": 1.65
+  },
+  {
+    "event_id": 13,
+    "type": "INFO",
+    "source": "backup_service",
+    "status_code": 432,
+    "timestamp": "2025-05-01T23:04:04.578575",
+    "message": "Operation completed successfully",
+    "duration": 4.49
+  },
+  {
+    "event_id": 14,
+    "type": "WARNING",
+    "source": "db_service",
+    "status_code": 417,
+    "timestamp": "2025-05-03T17:35:23.578575",
+    "message": "Operation completed successfully",
+    "duration": 1.24
+  },
+  {
+    "event_id": 15,
+    "type": "ERROR",
+    "source": "auth_service",
+    "status_code": 384,
+    "timestamp": "2025-05-04T11:31:57.578575",
+    "message": "Operation completed successfully",
+    "duration": 1.97
+  },
+  {
+    "event_id": 16,
+    "type": "INFO",
+    "source": "db_service",
+    "status_code": 478,
+    "timestamp": "2025-05-05T16:55:03.578575",
+    "message": "Backup failed due to network error",
+    "duration": 1.13
+  },
+  {
+    "event_id": 17,
+    "type": "INFO",
+    "source": "cache_service",
+    "status_code": 412,
+    "timestamp": "2025-05-05T03:10:09.578575",
+    "message": "Connection timed out",
+    "duration": 1.95
+  },
+  {
+    "event_id": 18,
+    "type": "WARNING",
+    "source": "auth_service",
+    "status_code": 250,
+    "timestamp": "2025-04-30T21:28:15.578575",
+    "message": "Update available",
+    "duration": 2.98
+  },
+  {
+    "event_id": 19,
+    "type": "WARNING",
+    "source": "cache_service",
+    "status_code": 453,
+    "timestamp": "2025-04-30T13:53:32.578575",
+    "message": "Operation completed successfully",
+    "duration": 4.63
+  },
+  {
+    "event_id": 20,
+    "type": "INFO",
+    "source": "db_service",
+    "status_code": 279,
+    "timestamp": "2025-05-05T18:01:48.578575",
+    "message": "Minor glitch encountered",
+    "duration": 2.95
+  },
+  {
+    "event_id": 21,
+    "type": "WARNING",
+    "source": "cache_service",
+    "status_code": 500,
+    "timestamp": "2025-05-02T09:32:55.578575",
+    "message": "CPU spike detected",
+    "duration": 2.47
+  },
+  {
+    "event_id": 22,
+    "type": "ERROR",
+    "source": "web_server",
+    "status_code": 394,
+    "timestamp": "2025-05-01T08:49:40.578575",
+    "message": "Operation completed successfully",
+    "duration": 1.29
+  },
+  {
+    "event_id": 23,
+    "type": "INFO",
+    "source": "web_server",
+    "status_code": 308,
+    "timestamp": "2025-04-30T22:14:32.578575",
+    "message": "CPU spike detected",
+    "duration": 3.19
+  },
+  {
+    "event_id": 24,
+    "type": "WARNING",
+    "source": "cache_service",
+    "status_code": 268,
+    "timestamp": "2025-04-30T19:43:33.578575",
+    "message": "User login detected",
+    "duration": 2.64
+  },
+  {
+    "event_id": 25,
+    "type": "WARNING",
+    "source": "cache_service",
+    "status_code": 257,
+    "timestamp": "2025-05-02T23:54:53.578575",
+    "message": "Backup completed",
+    "duration": 3.53
+  },
+  {
+    "event_id": 26,
+    "type": "WARNING",
+    "source": "backup_service",
+    "status_code": 419,
+    "timestamp": "2025-05-01T15:24:27.578575",
+    "message": "Cache cleared",
+    "duration": 2.63
+  },
+  {
+    "event_id": 27,
+    "type": "ERROR",
+    "source": "db_service",
+    "status_code": 392,
+    "timestamp": "2025-05-02T00:36:53.578575",
+    "message": "Configuration loaded",
+    "duration": 0.61
+  },
+  {
+    "event_id": 28,
+    "type": "INFO",
+    "source": "web_server",
+    "status_code": 397,
+    "timestamp": "2025-05-03T09:25:57.578575",
+    "message": "Operation completed successfully",
+    "duration": 3.28
+  },
+  {
+    "event_id": 29,
+    "type": "ERROR",
+    "source": "cache_service",
+    "status_code": 336,
+    "timestamp": "2025-05-05T12:29:06.578575",
+    "message": "Connection timed out",
+    "duration": 2.43
+  },
+  {
+    "event_id": 30,
+    "type": "ERROR",
+    "source": "cache_service",
+    "status_code": 386,
+    "timestamp": "2025-05-05T04:41:41.578575",
+    "message": "Connection timed out",
+    "duration": 4.87
+  }
+]
