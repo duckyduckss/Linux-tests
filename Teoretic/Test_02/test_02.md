@@ -5,7 +5,7 @@
 
 ---
 
-1. (2 variante corect* e) Ce tipuri de fișiere pot fi identificate în Linux printr-un caracter special în prima coloană a comenzii `ls -l`?
+1. (2 variante corecte) Ce tipuri de fișiere pot fi identificate în Linux printr-un caracter special în prima coloană a comenzii `ls -l`?
    * a) `d` – fișier de tip device
    * b) `l` – link simbolic
    * c) `c` – character device
@@ -18,7 +18,7 @@
    * c) Nu poți face nimic cu fișierul
    * d) Îl poți edita
 
-3. (2 variante corect* e) Ce comenzi afişează în mod corect dimensiunea unui fişier în octeţi?
+3. (2 variante corecte) Ce comenzi afişează în mod corect dimensiunea unui fişier în octeţi?
    * a) `du -b`
    * b) `stat -c %s`
    * c) `ls -l`
@@ -31,14 +31,14 @@
    * c) Codul de ieșire (exit cod* e) al ultimei comenzi
    * d) Numărul argumentelor scriptului
 
-5. (3 variante corect* e) Ce mecanisme de izolare sunt folosite în containerele Linux moderne (ex: Docker)?
+5. (3 variante corecte) Ce mecanisme de izolare sunt folosite în containerele Linux moderne (ex: Docker)?
    * a) cgroups
    * b) SELinux
    * c) systemd
    * d) namespaces
    * e) chroot
 
-6. (2 variante corect* e) Ce efecte are bitul `sticky` când este setat pe un director?
+6. (2 variante corecte) Ce efecte are bitul `sticky` când este setat pe un director?
    * a) Orice fișier poate fi șters doar de proprietarul său
    * b) Fișierele devin read-only
    * c) Oricine poate edita fișierele, dar nu le poate șterge
@@ -50,7 +50,7 @@
    * c) Procesul va fi terminat imediat
    * d) Procesul primește o prioritate mai mare
 
-8. (2 variante corect* e) Care comenzi pot lista toate fișierele, inclusiv cele ascunse, dintr-un director?
+8. (2 variante corecte) Care comenzi pot lista toate fișierele, inclusiv cele ascunse, dintr-un director?
    * a) `ls -a`
    * b) `ls -h`
    * c) `ls -al`
@@ -63,14 +63,14 @@
    * c) Directorul curent
    * d) Orice fișier ascuns
 
-10. (2 variante corect* e) Ce formate de pachete sunt utilizate în mod frecvent în distribuții Linux?
+10. (2 variante corecte) Ce formate de pachete sunt utilizate în mod frecvent în distribuții Linux?
     * a) `.zip`
     * b) `.rpm`
     * c) `.deb`
     * d) `.tar`
     * e) `.gz`
 
-11. (2 variante corect* e) Ce comenzi pot afișa pachetele instalate pe un sistem Debian-based?
+11. (2 variante corecte) Ce comenzi pot afișa pachetele instalate pe un sistem Debian-based?
     * a) `dpkg -l`
     * b) `ls /var/lib/apt`
     * c) `apt list --installed`
@@ -83,14 +83,14 @@
     * c) Conține adresele serverelor DNS
     * d) Specifică variabile de mediu pentru user
 
-13. (3 variante corect* e) Ce comenzi pot fi folosite pentru redirecționarea ieșirii în Bash?
+13. (3 variante corecte) Ce comenzi pot fi folosite pentru redirecționarea ieșirii în Bash?
     * a) `>`
     * b) `>>`
     * c) `|`
     * d) `<`
     * e) `&>`
 
-14. (2 variante corect* e) Ce înseamnă simbolul `&` la finalul unei comenzi în shell?
+14. (2 variante corecte) Ce înseamnă simbolul `&` la finalul unei comenzi în shell?
     * a) Execută comanda în fundal
     * b) Adaugă permisiunea de execuție
     * c) Este utilizat pentru redirecționare completă
@@ -102,7 +102,7 @@
     * c) Ștergerea fișierului
     * d) Adăugarea dreptului de execuție pentru toți
 
-16. (2 variante corect* e) Într-un sistem de fișiere cu scheme GPT, ce avantaje avem?
+16. (2 variante corecte) Într-un sistem de fișiere cu scheme GPT, ce avantaje avem?
     * a) Suport pentru până la 4 partiții primare
     * b) Suport pentru peste 2 TB spațiu
     * c) Compatibilitate cu BIOS vechi
@@ -114,20 +114,20 @@
     * c) Creează o arhivă comprimată cu gzip
     * d) Listează conținutul folderului
 
-18. (2 variante corect* e) Care sunt funcțiile unui manager de boot (ex: GRU* b)?
+18. (2 variante corecte) Care sunt funcțiile unui manager de boot (ex: GRU* b)?
     * a) Initiază rețeaua la pornire
     * b) Încarcă sistemul de operare
     * c) Permite selectarea între mai multe OS-uri
     * d) Activează toate partițiile montate
 
-19. (3 variante corect* e) Ce sunt fișierele `socket`, `pipe` și `FIFO`?
+19. (3 variante corecte) Ce sunt fișierele `socket`, `pipe` și `FIFO`?
     * a) Tipuri de fișiere speciale
     * b) Fișiere stocate în `/dev`
     * c) Mijloace de comunicare între procese
     * d) Structuri din memoria RAM
     * e) Necesită permisiuni de execuție pentru a fi folosite
 
-20. (2 variante corect* e) Ce comenzi Bash pot opri complet sistemul?
+20. (2 variante corecte) Ce comenzi Bash pot opri complet sistemul?
     * a) `poweroff`
     * b) `halt`
     * c) `exit`
@@ -140,7 +140,7 @@
     * c) `create-user`
     * d) `userctl`
 
-22. (2 variante corect* e) Ce opțiuni pot fi folosite cu `find` pentru a găsi fișiere mai vechi de 7 zile?
+22. (2 variante corecte) Ce opțiuni pot fi folosite cu `find` pentru a găsi fișiere mai vechi de 7 zile?
     * a) `-mtime +7`
     * b) `-atime -7`
     * c) `-ctime +7`
@@ -153,7 +153,7 @@
     * c) `export VAR=123`
     * d) `setglobal VAR 123`
 
-24. (2 variante corect* e) Ce comenzi pot lista porturile deschise ale sistemului?
+24. (2 variante corecte) Ce comenzi pot lista porturile deschise ale sistemului?
     * a) `netstat -tuln`
     * b) `ss -tuln`
     * c) `lsof -c`
@@ -166,14 +166,14 @@
     * c) Deschide conexiuni grafice
     * d) Stochează parolele
 
-26. (3 variante corect* e) Ce afirmații despre `/proc` sunt adevărate?
+26. (3 variante corecte) Ce afirmații despre `/proc` sunt adevărate?
     * a) Este un sistem de fișiere virtual
     * b) Conține date despre procese
     * c) Este utilizat de kernel pentru managementul pachetelor
     * d) Conține fișiere binare executabile
     * e) Poate fi folosit pentru a modifica setări de runtime
 
-27. (2 variante corect* e) Ce comenzi pot returna spațiul liber pe partiții?
+27. (2 variante corecte) Ce comenzi pot returna spațiul liber pe partiții?
     * a) `df -h`
     * b) `du -sh`
     * c) `lsblk`
@@ -186,7 +186,7 @@
     * c) `chpass nume`
     * d) `passwd -c nume`
 
-29. (2 variante corect* e) Ce comenzi pot afișa informații despre memoria RAM?
+29. (2 variante corecte) Ce comenzi pot afișa informații despre memoria RAM?
     * a) `free -h`
     * b) `top`
     * c) `htop`
